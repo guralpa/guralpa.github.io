@@ -1,7 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Inconsolata:300,400,500';
 
-
-body {
+body:not(header){
     margin: 0 auto;
     max-width: 50em;
     font-family: "Inconsolata","Helvetica","Arial", sans-serif;
