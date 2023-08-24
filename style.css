@@ -1,10 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Inconsolata:300,400,500';
+
+
 body {
     margin: 0 auto;
     max-width: 50em;
-    font-family: "Helvetica","Arial", sans-serif;
+    font-family: "Inconsolata","Helvetica","Arial", sans-serif;
     line-height: 1.5;
     padding: 4em 1em;
-    color: #455;
+    color: #eee;
+    background: #233;
   }
 
 h1,
@@ -16,5 +20,9 @@ h2 {
 h1,
 h2,
 strong {
-  color: #233;
+  color: #fff;
+}
+
+a {
+  color: #eec72a;
 }
