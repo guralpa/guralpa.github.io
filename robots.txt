@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://guralpa.github.io/sitemap.xml
+Sitemap: http://arenguralp.com/sitemap.xml
