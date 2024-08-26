@@ -5,7 +5,6 @@ description: mathematics formalization
 img: assets/img/fib-functor-cover.png
 importance: 1
 category: work
-related_publications: true
 ---
 
 The natural numbers, with unique morphisms *n* -> *m* whenever *n* divides *m*, is an example of an abstract mathematical structure called a category. The Fibonacci sequence, viewed as a function, is an example of a functor on this category. The 'Fibonacci Entry Sequence', defined for each natural number *n* to be the smallest number *k* such that *n* divides *F(k)*, is also a functor, and is in fact the left adjoint of the Fibonacci Functor. 
