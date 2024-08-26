@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-The natural numbers, with unique morphisms n -> m whenever n | m, is an example of an abstract mathematical structure called a category. The Fibonacci sequence, viewed as a function, is an example of a functor on this category. The 'Fibonacci Entry Sequence', defined for each natural number *n* to be the smallest number *k* such that *n* divides *F(k)*, is also a functor, and is in fact the left adjoint of the Fibonacci Functor. 
+The natural numbers, with unique morphisms *n* -> *m* whenever *n* divides *m*, is an example of an abstract mathematical structure called a category. The Fibonacci sequence, viewed as a function, is an example of a functor on this category. The 'Fibonacci Entry Sequence', defined for each natural number *n* to be the smallest number *k* such that *n* divides *F(k)*, is also a functor, and is in fact the left adjoint of the Fibonacci Functor. 
 
 My work began with instantiating the category structure on the natural numbers, and the functor structure on the fibonacci sequence. From there, I defined the Fibonacci Entry Sequence, since it was not already present in Mathlib. The well-definedness of this sequence relies on the fact that the Fibonacci Sequence is periodic modulo a natural number *m*, the most straightforward proof of which utilizes a pigeonhole argument. This was somewhat difficult due to the rigidly formal nature of Lean, but I was able to complete the first half of the argument and am now finalizing the second of two cases in the second half.
 
