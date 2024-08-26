@@ -71,24 +71,10 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "projects": [
     {
       "name": "Fib-Functor",
-      "summary": "The divisibility relation on the natural numbers forms an example of a category, an abstract mathematical structure. The fibonacci sequence on this category is an example of a functor, a map preserving the structure of a category. This project is on the formalization of this fact, as well as related properties of the fibonacci functor, in Lean, an interactive theorem prover.",
+      "summary": "The divisibility relation on the natural numbers forms an example of a category, an abstract mathematical structure. The fibonacci sequence on this category is an example of a functor, a map preserving the structure of a category. This project is on the formalization of this fact, as well as related properties of the fibonacci functor, in Lean4, an interactive theorem prover.",
       "highlights": ["Math Formalization", "Category Theory"],
       "startDate": "2024-06-12",
       "endDate": "Ongoing!",
