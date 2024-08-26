@@ -20,7 +20,7 @@
       "position": "Research Assistant",
       "startDate": "June 2024",
       "summary": "Work on mathematics formalization under Robert Lewis. Current project on the Fibonacci Sequence, which is a functor on the category of natural numbers with divisibility. The 'Fibonacci Entry Sequence', defined for each natural number *n* to be the smallest number *k* such that *n* divides *F(k)*, is also a functor on this category, and is in fact the left adjoint of the Fibonacci Functor. My work involves formalizing the necessary theorems to show this adjunction, and extending it to the more general class of *strong divisibility sequences*."
-    }
+    },
     {
       "name": "Sheridan Center for Teaching and Learning",
       "position": "Mathematics Tutor",
