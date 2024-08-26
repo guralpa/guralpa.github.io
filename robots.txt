@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://arenguralp.com/sitemap.xml
+Sitemap: https://arenguralp.com/sitemap.xml
