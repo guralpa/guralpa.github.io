@@ -2,7 +2,7 @@
 layout: page
 title: summer-drp
 description: computational algebraic geometry
-img: assets/img/summer-drp-cover.png
+img: assets/img/summer-drp-cover.jpeg
 importance: 1
 category: work
 ---
