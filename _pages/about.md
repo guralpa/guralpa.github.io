@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate @ Brown Math & CS
+subtitle: Undergraduate @ Brown Math
 
 profile:
   align: right
@@ -15,6 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Aren is an undergraduate at Brown University studying Mathematics and Computer Science. He is broadly interested in algebra, formal theorem provers, and homotopy type theory. He is currently working on a math formalization project under the guidance of [Robert Lewis](https://robertylewis.com/), and thinking about what courses to take next semester. Aren is a proud alum of [HCSSiM](https://hcssim.org/). Go Yellow Pigs!
+Aren is a second-year undergraduate at Brown University studying Mathematics. He is broadly interested in algebra, geometry, combinatorics, and finds the intersections of disparate fields of mathematics fascinating. He is currently studying in Budapest as part of [Budapest Semesters in Mathematics](https://budapestsemesters.com). Aren is a proud alum of [HCSSiM](https://hcssim.org/). Go Yellow Pigs!
 
-Outside of academics, he likes to solve puzzles, play video and board games, and drink boba tea. In his creative work, he experiments with storytelling; he has told stories through puzzle design, poetry, short playwriting, CYOA game design, and others. He delights in climbing high places, like those found at Rock Spot Providence, where he boulders in the v3-4 range.
+Outside of academics, he likes to solve puzzles, play video and board games, and read, for which he's always happy to receive suggestions. His creative pursuits often center on puzzle design with a focus on story, but he has also written pieces of various other non-traditional forms. 
+
+He delights in climbing high places, like those found at Rock Spot Providence, where he boulders in the v4-5 range.
