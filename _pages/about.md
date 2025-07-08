@@ -17,4 +17,4 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I'm Aren, a third-year undergraduate at Brown University studying mathematics. I like all kinds of math, but I find the intersections of different fields particularly interesting. I'm currently working on a research project advised by [Eric Larson](https://www.math.brown.edu/elarso19/). I'm also a proud dual-alum of [Budapest Semesters in Mathematics](https://budapestsemesters.com) and [HCSSiM](https://hcssim.org/).
 
-Outside of classes, I like to write poetry, play puzzle games, and read. I delight in climbing high places, like those found at Rock Spot Providence, where I boulder in the v3-4 range.
+Outside of classes, I like to write poetry, play puzzle games, and read. I delight in climbing high places, like those found at Rock Spot Providence, where I boulder in the v3-4 range. Photo credit: [Chloe Qiao](https://www.qiaochloe.com/) (thanks!)
