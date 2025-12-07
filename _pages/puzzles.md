@@ -1,8 +1,8 @@
 ---
 layout: page
 title: puzzles
-permalink: /puzzles/
-nav: true
+permalink:
+nav: false
 nav_order: 4
 horizontal: false
 ---

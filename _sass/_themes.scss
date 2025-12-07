@@ -3,12 +3,12 @@
  ******************************************************************************/
 
 :root {
-  --global-bg-color: #{$white-color};
+  --global-bg-color: #{#fff8e3};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{#008339};
-  --global-hover-color: #{#00e965};
+  --global-theme-color: #{#9e5200};
+  --global-hover-color: #{#d47d20a1};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -68,12 +68,12 @@
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #{#2e1500};
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
+  --global-text-color: #{#fff8e3};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{#fffb00};
-  --global-hover-color: #{#fffd98};
+  --global-theme-color: #{#e2be69};
+  --global-hover-color: #{#fce5b0};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
