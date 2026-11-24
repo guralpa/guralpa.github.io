@@ -1,7 +1,7 @@
 ---
 layout: default
 title: puzzles
-permalink:
+permalink: /puzzles/
 nav: true
 nav_order: 4
 horizontal: false
