@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: puzzles
 permalink: /puzzles/
 nav: true
