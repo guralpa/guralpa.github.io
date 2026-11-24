@@ -7,4 +7,7 @@ importance: 1
 category: Research
 ---
 
+
+<div align=center>
 <iframe width="100%" height="800" src="assets/pdf/rudenko-for-valued-fields.pdf">
+</div>
